@@ -1,0 +1,23 @@
+-- import: fastn
+
+-- fastn.package: farsin
+
+-- fastn.dependency: fifthtry.github.io/doc-site as ds
+-- fastn.dependency: fifthtry.github.io/bling as bling
+-- fastn.dependency: ayushsoni1010.github.io/ui-packages as ui-packages
+-- fastn.dependency: fastn-community.github.io/dark-flame-cs
+-- fastn.dependency: fastn-community.github.io/forest-cs
+-- fastn.dependency: sarvom.github.io/holy-angel-typography
+-- fastn.dependency: shaheen-senpai.github.io/fastn-cs-tail
+
+-- fastn.auto-import: bling/chat as chat
+-- fastn.auto-import: ds
+-- fastn.auto-import: ui-packages
+-- fastn.auto-import: farsin/lib as lib
+-- fastn.auto-import: ayushsoni1010.github.io/ui-packages/header as navbar
+-- fastn.auto-import: ayushsoni1010.github.io/ui-packages/base-text as basetext
+-- fastn.auto-import: ayushsoni1010.github.io/ui-packages/base-layout as layout
+-- fastn.auto-import: ayushsoni1010.github.io/ui-packages/social-buttons as social
+-- fastn.auto-import: ayushsoni1010.github.io/ui-packages/footer as footer
+-- fastn.auto-import: farsin/assets
+-- fastn.auto-import: farsin/cmp as cmp

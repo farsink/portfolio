@@ -1,0 +1,35 @@
+-- import: farsin/assets
+-- import: farsin/cmp as cmp
+-- import: farsin/lib as lib
+-- import: ayushsoni1010.github.io/ui-packages/header as navbar
+-- import: ayushsoni1010.github.io/ui-packages/base-text as basetext
+-- import: ayushsoni1010.github.io/ui-packages/base-layout as layout
+-- import: ayushsoni1010.github.io/ui-packages/social-buttons as social
+-- import: ayushsoni1010.github.io/ui-packages/footer as footer
+;; -- import: ayushsoni1010.github.io/ui-packages/cta-roles as cta
+
+;; --------------------------------------------------------------
+;; --------------------------------------------------------------
+
+-- layout.base-layout:
+
+-- cmp.head:
+
+;; --------------------------------------------------------------
+;; --------------------------------------------------------------
+
+-- lib.base-text:
+heading: Blogs
+description: Content
+imageURL: https://ik.imagekit.io/ayushsoni1010/Website/blogs?ik-sdk-version=javascript-1.4.3&updatedAt=1669666499904
+positionTop: -10
+
+;; --------------------------------------------------------------
+;; --------------------------------------------------------------
+
+
+-- cmp.foot:
+-- end: layout.base-layout
+
+;; --------------------------------------------------------------
+;; --------------------------------------------------------------
